@@ -6,20 +6,20 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          http://schaemar.github.io/hyde/
+title:            Martin's
+tagline:          'staff'
+description:      'You check my <a href="https://www.linkedin.com/in/martin-schaefer-251a8741" target="_blank">LinkedIn</a>, read about our research <a href="sum.fel.cvut.cz">projects</a> or just follow me <a href="https://twitter.com/schaefer_cz" target="_blank">@scahefer_cz</a>.'
+url:              https://schaemar.github.io/hyde/
+baseurl:          https://schaemar.github.io/hyde/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Martin Schaefer'
+  url:            http://schaefer.cz
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/schaemar/www_blog
