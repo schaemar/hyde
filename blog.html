@@ -1,10 +1,13 @@
 ---
-layout: default
-title: Home
+layout: deafult
+title: Posts
 ---
 
+<span class="message">I am preparing this web, I would like to keep it simple and effective to use</span>
+
+<h2>Latest post</h2>
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in paginator.posts limit:1%}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -17,5 +20,6 @@ title: Home
     {{ post.content }}
   </div>
   {% endfor %}
+  <a href="{{ side.baseurl }}blog">Other posts</a>
 </div>
 
