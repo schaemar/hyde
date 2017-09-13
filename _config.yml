@@ -6,8 +6,8 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Martin's
-tagline:          'staff'
+title:            Martin Schaefer
+tagline:          'personal web'
 description:      'Hi! You can also check my <a href="https://www.linkedin.com/in/martin-schaefer-251a8741" target="_blank">LinkedIn</a>, read about our research <a href="http://sum.fel.cvut.cz">projects at CTU </a> or just follow me <a href="https://twitter.com/schaefer_cz" target="_blank">@schaefer_cz</a>.'
 url:              https://schaemar.github.io/www_blog/
 baseurl:          https://schaemar.github.io/www_blog/
@@ -16,7 +16,7 @@ author:
   name:           'Martin Schaefer'
   url:            http://schaefer.cz
 
-paginate:         5
+paginate:         1
 
 # Custom vars
 version:          1.0
