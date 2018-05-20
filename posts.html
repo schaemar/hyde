@@ -12,7 +12,7 @@ title: Home
 <!--<h1>Latest post</h1>-->
 
 <div class="posts">
-  {% for post in paginator.posts limit:3%}
+  {% for post in site.posts limit:3%}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
