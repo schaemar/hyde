@@ -4,7 +4,7 @@ layout: page
 published: true
 ---
 
-I would like to share some of the projects we are working with our <a href="http://sum.fel.cvut.cz">Smart Urban Mobility</a> team at Artificial Intelligence Center (<a href="aic.fel.cvut.cz">AIC</a>).
+I would like to share some of the projects we are working with our <a href="http://sum.fel.cvut.cz">Smart Urban Mobility</a> team at Artificial Intelligence Center (<a href="http://aic.fel.cvut.cz">AIC</a>).
 We just published <a href="http://sum.fel.cvut.cz/theses">topics for bachelor's and master's theses</a>.
 
 We are at the end of the summer semester, so it's the time when the students are recommended to choose their graduation thesis's topics. It's about a year before their submission deadline for the thesis.
