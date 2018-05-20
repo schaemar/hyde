@@ -1,10 +1,18 @@
 ---
 layout: default
-title: Posts
+title: Home
 ---
 
+<p class="message">Hi! Thanks for visiting my web!
+  If you are interested in anything you find here, feel free to let me know!
+  I appreciate your feedback, suggestion or whatever else you would like to share with me!</p>
+<br>
+<br>
+
+<!--<h1>Latest post</h1>-->
+
 <div class="posts">
-  {% for post in side.posts %}
+  {% for post in paginator.posts limit:3%}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -17,5 +25,7 @@ title: Posts
     {{ post.content }}
   </div>
   {% endfor %}
+  <a href="{{ side.baseurl }}posts">Other posts</a>
+
 </div>
 
