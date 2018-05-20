@@ -12,7 +12,7 @@ A common practice at <a href="cs.fel.cvut.cz">CS FEE CTU</a> is that the student
 The topic is usually not a final assignment. We typically start the cooperation with an introduction period. We offer student <a href="sum.fel.cvut.cz/jobs">summer jobs</a>, and it's a quite well-received form of cooperation.
 The next semester, the students have software/research project course. The goal of the project course is to start to work on their graduation projects. By Christmas, we finalise the specific final thesis assignment for the students. 
 
-![Illustration - Traffic in Prague]({{ site.baseurl }}"public/img/prague.png")
+![Illustration - Traffic in Prague]({{ site.baseurl }}public/img/prague.png)
 
 If you would like to collaborate on some of the topics or you just have some comments, let me know: martin.schaefer at fel.cvut.cz!
 
