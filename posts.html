@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in site.posts limit:3%}
+  {% for post in site.posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -17,7 +17,6 @@ title: Home
     {{ post.content }}
   </div>
   {% endfor %}
-  <a href="{{ side.baseurl }}posts">Other posts</a>
 
 </div>
 
