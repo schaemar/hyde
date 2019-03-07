@@ -7,6 +7,7 @@ I have decided to run for the academic senate of FEE CTU in Prague. My candidacy
 Thanks for you interest and support!
 
 **Martin Schaefer**
+
 PhD student at Artificial Intelligence Center at CS department.
 I studied bachelor in Cybernetics, masters in Open Informatics and spent erasmus at Eindhoven University of Technology. 
 
@@ -19,6 +20,7 @@ In the academic senate, I would support the development of FEE in this direction
 -----
 
 **Martin Schaefer**
+
 Doktorand v Centru umělé inteligence na Katedře počítačů.
 Studoval jsem bakaláře kybernetiky, magistra na OI a absoloval erasmus na TU Eindhoven. 
 
